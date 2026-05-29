@@ -1,2 +1,3 @@
 # data_visualization
-Data visualization projects and practice notebooks using Matplotlib and Seaborn in Python.
+Exploratory Data Analysis and Data Visualization projects using Python (Matplotlib, Seaborn) with real datasets and insights.
+
